@@ -11,3 +11,4 @@
 ## todos rendering 최적화.
 
 - 2020/03/13 : shouldComponentUpdate 를 통한 컴포넌트 렌더링 부분 구별. 성능 최적화.
+- 2021/01/04 : github.io 페이지 등록
